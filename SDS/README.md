@@ -18,7 +18,7 @@
 
 ### 1. Диаграмма прецедентов<a name="1"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
-![Use Case](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Use%20case/UseCase.png)
+![Use Case](https://github.com/cherrypie1/Pixel-Battle/blob/main/SDS/Use%20case/UseCase.png)
 #### 1.1 Актёры<a name="1.1"></a>
 Актёр | Описание
 --- | ---
@@ -92,24 +92,24 @@ Server|Сервер, хранящий данные об игровом проц�
 5. Конец.
 
 ### 2. Диаграмма активности<a name="2"></a>
-Диагаммы активности более подробно расписаны в следующем документе: [диаграммы активности](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Activity/README.md)
+Диагаммы активности более подробно расписаны в следующем документе: [диаграммы активности](https://github.com/cherrypie1/Pixel-Battle/blob/main/SDS/Activity/README.md)
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграммы последовательности вариантов использования представляют из себя следующие диаграммы:
-![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramLogin.png)
-![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramBuyGameElements.png)
-![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramBuyGameCurrency.png)
+![Sequence Diagram](https://github.com/cherrypie1/Pixel-Battle/blob/main/SDS/Sequence/SequenceDiagramLogin.png)
+![Sequence Diagram](https://github.com/cherrypie1/Pixel-Battle/blob/main/SDS/Sequence/SequenceDiagramBuyGameElements.png)
+![Sequence Diagram](https://github.com/cherrypie1/Pixel-Battle/blob/main/SDS/Sequence/SequenceDiagramBuyGameCurrency.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
 Диаграмма состояний представляет собой следующую диаграмму:
-![State Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/State/StateDiagram.png)
+![State Diagram](https://github.com/cherrypie1/Pixel-Battle/blob/main/SDS/State/StateDiagram.png)
 
 ### 5. Диаграмма классов<a name="5"></a>
 Диаграмма классов представляет собой следующую диаграмму:
 
-![Diagram Class](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Class/ClassDiagram.png)
+![Diagram Class](https://github.com/cherrypie1/Pixel-Battle/blob/main/SDS/Class/ClassDiagram.png)
 
 ### 6. Диаграмма развертывания и компонентов<a name="6"></a>
 Диаграмма развёртывания и компонентов представляет собой следующую диаграмму:
 
-![Deployment-Component](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Deployment-Component/Deployment-Componen.png)
+![Deployment-Component](https://github.com/cherrypie1/Pixel-Battle/blob/main/SDS/Deployment-Component/Deployment-Componen.png)
